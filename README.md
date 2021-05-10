@@ -1,2 +1,2 @@
 # essentials-PM
-essentialsPM is a PocketMine-MP plugin with useful commands!
+PM-SimpleCommands is a plugin to make the adminlife easier!
