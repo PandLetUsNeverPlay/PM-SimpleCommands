@@ -4,5 +4,6 @@ branches:
 - main
 projects:
   PM-SimpleCommands:
+    icon: "icon.png"
     path: ""
 ...
