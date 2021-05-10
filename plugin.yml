@@ -1,0 +1,43 @@
+name: PM-SimpleCommands
+main: LePandiLP\Main
+author: LePandiLP
+version: 1.0.0
+api: 3.0.0
+
+commands:
+  feed:
+    description: Fill your hungerbar
+    permission: feed.cmd
+  heal: 
+    description: Fill your healthbar
+    permission: heal.cmd
+  day:
+    description: Set the time to day
+    permission: day.cmd
+  night:
+    description: Set the time to night
+    permission: night.cmd
+  gm0:
+    description: Change your gamemode to survival
+    permission: gm.cmd
+  gm1:
+    description: Change your gamemode to creative
+    permission: gm.cmd
+  gm2:
+    description: Change your gamemode to adventure
+    permission: gm.cmd
+  gm3:
+    description: Change your gamemode to spectator
+    permission: gm.cmd
+    
+permissions: 
+  feed.cmd:
+    default: op
+  heal.cmd:
+    default: op
+  day.cmd:
+    default: op
+  night.cmd:
+    default: op
+  gm.cmd:
+    default: op

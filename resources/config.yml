@@ -1,0 +1,29 @@
+#No permission message
+
+no-permission: §cYou do not have permission to use this command!
+
+
+#Feed succesful message
+
+feed-message: §6You succesfully stilled your hunger!
+
+
+#Heal successful message
+
+heal-message: §6You succesfully filled your healthbar!
+
+#Message when you change the time to day or night
+
+day-message: §eYou succesfully changed the time to day!
+
+night-message: §1You succesfully changed the time to night!
+
+#Gamemode change messages
+
+gm0-message: §bYou succesfully changed your gamemode to survival!
+
+gm1-message: §bYou succesfully changed your gamemode to creative!
+
+gm2-message: §bYou succesfully changed your gamemode to adventure!
+
+gm3-message: §bYou succesfully changed your gamemode to spectator!
